@@ -47,7 +47,7 @@ def getPassword(user):
 	
 def main():
 
-	print(color.YELLOW + "\n[*] Mango password guesser created by XMA")
+	print(color.PURPLE + "\n[*] Mango password guesser created by XMA")
 	print("-------------------------------------------\n" + color.END)
 
 	for user in users:
