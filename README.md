@@ -1,6 +1,8 @@
 # HTB Scripts
 Here the scripts that I developed for some specific tasks during the pentesting process in some of the HackTheBox boxes and challenges that I pwned. I do not guarantee that these scripts work for your purposes or that they are free of bugs.
 
+NOTE: All scripts of still active boxes and challenges are protected by the root flag for the boxes, and the formatted HTB{challenge_flag} for the challenges.
+
 ## List of scripts
 - **Mango_cracker.py**: Mango script to retrieve the passwords of the existing users thru the NoSQL injection technique
 - **Craft_exploit.py**: Craft exploit to inject arbitrary code into the exploitable API and get a reverse shell
