@@ -8,6 +8,7 @@ NOTE: All **scripts of still active boxes and challenges are protected** by the 
 - **Json_injector.py**: Allows to inject arbitrary commands due to a exploitable Json.Net API via .NET deserialization
 - **USB-Ripper.py**: For forensics USB-Ripper challenge. Parses manufacturers and serial numbers from syslog and compares with those in auth.log retrieving the one/s that were removed
 - **Craft_exploit.py**: Craft box exploit to inject arbitrary code into the exploitable API and get a reverse shell
+- **Fortune_shell.py**: Script that acts as a shell in the machine, exploiting the RCE vulnerability that this machine has at the web service
 
 <p align="center">
 <a href="https://www.hackthebox.eu/home/users/profile/91096"><img src="https://www.hackthebox.eu/badge/image/91096" alt="Hack The Box XMA"></a>
