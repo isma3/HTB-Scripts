@@ -6,6 +6,7 @@ NOTE: All **scripts of still active boxes and challenges are protected** by the 
 ## List of scripts
 - **Mango_cracker.py**: Mango script to retrieve the passwords of the existing users thru the NoSQL injection technique
 - **Json_injector.py**: Allows to inject arbitrary commands due to a exploitable Json.Net API via .NET deserialization
+- **ezpz_injector.py**: Script to perform the SQL injection needed in this challenge
 - **USB-Ripper.py**: For forensics USB-Ripper challenge. Parses manufacturers and serial numbers from syslog and compares with those in auth.log retrieving the one/s that were removed
 - **Craft_exploit.py**: Craft box exploit to inject arbitrary code into the exploitable API and get a reverse shell
 - **Fortune_shell.py**: Script that acts as a shell in the machine, exploiting the RCE vulnerability that this machine has at the web service
